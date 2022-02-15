@@ -1,6 +1,6 @@
 # Player and Table class for simplified 21 card game
 # Author: Amrit Aujla
-# References: lecture slides and previous labs
+# References: lecture slides and labs from CMPUT 175
 # Collaborators: None
 
 
