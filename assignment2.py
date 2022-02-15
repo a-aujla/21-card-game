@@ -1,6 +1,6 @@
 # Simplified 21 Card Game
 # Author: Amrit Aujla
-# References: lecture slides and previous labs
+# References: lecture slides and labs from CMPUT 175
 # Collaborators: None
 
 
