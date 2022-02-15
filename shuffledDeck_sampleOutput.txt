@@ -1,0 +1,136 @@
+=======================
+Welcome to CARD GAME 21
+=======================
+Name of file that should be used to populate the deck of cards: shuffledDeck.txt
+
+Dealing cards to player and dealer...
+Player's hand:[ KS ][ QS ], value = 20
+Dealer's hand:[ JH ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> s
+Player's hand:[ KS ][ QS ], value = 20
+Dealer's hand:[ JH ][ AH ], value = 11
+Dealer must take card...
+Player's hand:[ KS ][ QS ], value = 20
+Dealer's hand:[ JH ][ AH ][ QH ], value = 21
+Dealer has a natural 21! Dealer wins round 1!
+
+Would you like to play another round (Y/N)? >> abc
+Invalid entry.  Would you like to play another round (Y/N)? >> yes
+
+Dealing cards to player and dealer...
+Player's hand:[ 6D ][ TS ], value = 16
+Dealer's hand:[ 5H ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> H
+Player's hand:[ 6D ][ TS ][ TH ], value = 26
+Dealer's hand:[ 5H ][ xx ]
+Player went bust. Dealer wins round 2!
+
+Would you like to play another round (Y/N)? >> y
+
+Dealing cards to player and dealer...
+Player's hand:[ 6C ][ KD ], value = 16
+Dealer's hand:[ TD ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> anything but H or h
+Player's hand:[ 6C ][ KD ], value = 16
+Dealer's hand:[ TD ][ 7H ], value = 17
+Dealer wins round 3!
+
+Would you like to play another round (Y/N)? >> Y
+
+Dealing cards to player and dealer...
+Player's hand:[ 3C ][ 2C ], value = 5
+Dealer's hand:[ 9C ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> hit
+Player's hand:[ 3C ][ 2C ][ 9S ], value = 14
+Dealer's hand:[ 9C ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> h
+Player's hand:[ 3C ][ 2C ][ 9S ][ 4C ], value = 18
+Dealer's hand:[ 9C ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> stay
+Player's hand:[ 3C ][ 2C ][ 9S ][ 4C ], value = 18
+Dealer's hand:[ 9C ][ 8S ], value = 17
+Player wins round 4!
+
+Would you like to play another round (Y/N)? >> yoyo
+
+Dealing cards to player and dealer...
+Player's hand:[ AD ][ QD ], value = 11
+Dealer's hand:[ 2D ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> HIT
+Player's hand:[ AD ][ QD ][ JD ], value = 21
+Dealer's hand:[ 2D ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> s
+Player wins round 5 with a NATURAL 21!
+
+Would you like to play another round (Y/N)? >> y
+
+Dealing cards to player and dealer...
+Player's hand:[ 2H ][ 8H ], value = 10
+Dealer's hand:[ 4H ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> h
+Player's hand:[ 2H ][ 8H ][ 4D ], value = 14
+Dealer's hand:[ 4H ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> s
+Player's hand:[ 2H ][ 8H ][ 4D ], value = 14
+Dealer's hand:[ 4H ][ 4S ], value = 8
+Dealer must take card...
+Player's hand:[ 2H ][ 8H ][ 4D ], value = 14
+Dealer's hand:[ 4H ][ 4S ][ 3S ], value = 11
+Dealer must take card...
+Player's hand:[ 2H ][ 8H ][ 4D ], value = 14
+Dealer's hand:[ 4H ][ 4S ][ 3S ][ 5D ], value = 16
+Dealer must take card...
+Player's hand:[ 2H ][ 8H ][ 4D ], value = 14
+Dealer's hand:[ 4H ][ 4S ][ 3S ][ 5D ][ 6S ], value = 22
+Dealer went bust. Player wins round 6!
+
+Would you like to play another round (Y/N)? >> y
+
+Dealing cards to player and dealer...
+Player's hand:[ 3D ][ TC ], value = 13
+Dealer's hand:[ QC ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> H
+Player's hand:[ 3D ][ TC ][ 5C ], value = 18
+Dealer's hand:[ QC ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> S
+Player's hand:[ 3D ][ TC ][ 5C ], value = 18
+Dealer's hand:[ QC ][ 8C ], value = 18
+Tie! No one wins round 7!
+
+Would you like to play another round (Y/N)? >> y
+
+Dealing cards to player and dealer...
+Player's hand:[ 6H ][ AS ], value = 7
+Dealer's hand:[ JC ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> y
+Player's hand:[ 6H ][ AS ], value = 7
+Dealer's hand:[ JC ][ 9H ], value = 19
+Dealer wins round 8!
+
+Would you like to play another round (Y/N)? >> y
+
+Dealing cards to player and dealer...
+Player's hand:[ 7S ][ 7C ], value = 14
+Dealer's hand:[ 7D ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> h
+Player's hand:[ 7S ][ 7C ][ 5S ], value = 19
+Dealer's hand:[ 7D ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> h
+Player's hand:[ 7S ][ 7C ][ 5S ][ 3H ], value = 22
+Dealer's hand:[ 7D ][ xx ]
+Player went bust. Dealer wins round 9!
+
+Would you like to play another round (Y/N)? >> y
+
+Dealing cards to player and dealer...
+Player's hand:[ JS ][ 2S ], value = 12
+Dealer's hand:[ 8D ][ xx ]
+Would you like to HIT (H/h) or STAY (S/s)? >> h
+Repopulating deck with cards...
+Player's hand:[ JS ][ 2S ][ QS ], value = 22
+Dealer's hand:[ 8D ][ xx ]
+Player went bust. Dealer wins round 10!
+
+Would you like to play another round (Y/N)? >> n
+
+Thank you for playing. Goodbye...

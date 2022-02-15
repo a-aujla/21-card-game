@@ -1,0 +1,9 @@
+=======================
+Welcome to CARD GAME 21
+=======================
+Name of file that should be used to populate the deck of cards: fileDoesn'tExist
+Cannot read from fileDoesn'tExist.
+Name of file that should be used to populate the deck of cards: invalid1.txt
+Cannot populate deck: invalid data in invalid1.txt
+
+Thank you for playing. Goodbye...
